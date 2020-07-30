@@ -1,0 +1,16 @@
+{% extends "layouts/default.twig" %}
+
+{% block content %}
+    <section id="content-area" class="container d-flex justify-content-center align-items-center">
+        <div class="container-inner text-center">
+            <div class="heading">
+                <h1 class="heading-title"><i class="icon icon-link"></i> {{ title }}</h1>
+            </div>
+            <div class="content">
+                {{ body }}
+            </div>
+
+            <div id="vue-example"></div>
+        </div>
+    </section>
+{% endblock %}

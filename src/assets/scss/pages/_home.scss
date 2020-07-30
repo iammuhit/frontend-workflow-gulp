@@ -1,0 +1,22 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+$background-color: YellowGreen;
+
+$heading-font-size: 26px;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+    background-color: $background-color;
+}
+
+.heading {
+    .heading-title {
+        font-size: $heading-font-size;
+    }
+}
+
+#content-area {
+    position: relative;
+    height: 100vh;
+}

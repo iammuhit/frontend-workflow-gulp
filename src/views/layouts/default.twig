@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en">
+<head>
+    {% include "partials/metadata.twig" %}
+</head>
+<body>
+    {% include "partials/header.twig" %}
+
+    <main id="primary">
+        {% block content %}
+
+        {% endblock %}
+    </main>
+
+    {% include "partials/footer.twig" %}
+</body>
+</html>
