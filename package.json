@@ -6,7 +6,8 @@
     "scripts": {
         "server": "gulp",
         "build": "NODE_ENV=production gulp build",
-        "publish": "gulp publish"
+        "publish": "gulp publish",
+        "clean": "gulp clean"
     },
     "repository": {
         "type": "git",
@@ -92,7 +93,7 @@
         "gulp-favicons": "^2.4.0",
         "gulp-filenames": "^4.0.1",
         "gulp-filter": "^6.0.0",
-        "gulp-fontello": "^0.5.1",
+        "gulp-fontello": "^0.5.2",
         "gulp-header": "^2.0.9",
         "gulp-htmlmin": "^5.0.1",
         "gulp-hub": "^4.2.0",
@@ -123,10 +124,10 @@
         "merge": "^1.2.1",
         "merge-stream": "^2.0.0",
         "moment": "^2.27.0",
-        "node-sass": "^4.14.1",
+        "node-sass": "^5.0.0",
         "pa11y": "^5.3.0",
         "require-dir": "^1.2.0",
-        "sharp": "^0.25.4",
+        "sharp": "^0.26.2",
         "through2": "^4.0.2",
         "vinyl-buffer": "^1.0.1",
         "vinyl-source-stream": "^2.0.0",
