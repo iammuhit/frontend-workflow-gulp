@@ -2,9 +2,9 @@
 A Complete Workflow Automation for Frontend Development using Gulp and Node Package Manager
 
 # Commands
-npm run build
-npm run publish
-npm run server
+npm run build  
+npm run publish  
+npm run server  
 npm run clean
 
 # Prerequisites
