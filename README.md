@@ -11,6 +11,6 @@ npm run clean
 Node.js v15.0.0+
 
 # Sharp Fix
-npm uninstall expo-cli -g
-npm install expo-cli -g
+npm uninstall expo-cli -g  
+npm install expo-cli -g  
 npm rebuild
