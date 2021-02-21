@@ -43,7 +43,7 @@ export const resize = (callback) => {
     callback();
 };
 
-export const build = gulp.series(copy, resize, optimize);
+export const build = gulp.series(copy);
 
 export const publish = () => {
     plugins.fancyLog('-> Publishing Images');
