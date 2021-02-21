@@ -42,7 +42,7 @@ module.exports.build = {
     html: app.env.PATH_BUILD + '/'
 };
 
-module.exports.scss = [];
+module.exports.scss = [app.env.PATH_NODE_MODULES + '/'];
 
 module.exports.modules = {
     base: app.env.PATH_NODE_MODULES + '/',
