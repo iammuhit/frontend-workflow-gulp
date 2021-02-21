@@ -1,6 +1,6 @@
 {
     "name": "frontend-automation-gulp",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Complete Workflow Automation for Frontend Development using Gulp and Node Package Manager",
     "main": "gulpfile.babel.js/index.js",
     "scripts": {
