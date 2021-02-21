@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "name": "Frontend Development Workflow Automation - Gulp",
+  "description": "A Complete Workflow Automation for Frontend Development using Gulp and Node Package Manager",
+  "icons": {
+    "60": "assets/img/favicons/firefox_app_60x60.png",
+    "128": "assets/img/favicons/firefox_app_128x128.png",
+    "512": "assets/img/favicons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Nurul Amin Muhit",
+    "url": "https://muhit.me/"
+  }
+}
