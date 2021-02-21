@@ -1,0 +1,16 @@
+body {
+	font: 100% Helvetica, sans-serif;
+	color: #333;
+	background-color: YellowGreen;
+}
+
+.heading .heading-title {
+	font-size: 26px;
+}
+
+#content-area {
+	position: relative;
+	height: 100vh;
+}
+
+/*# sourceMappingURL=app.css.map */
